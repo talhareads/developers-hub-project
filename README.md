@@ -53,7 +53,7 @@ with open('fake_news_model (3).pkl', 'rb') as model_file:
 # Example usage
 prediction = model.predict([your_input_features])
 ```
-https://drive.google.com/drive/folders/1N4_XcfJ1N_f0LL2QYKUjOAzs0WgCOhV4
+
 ---
 
 ## License
@@ -63,4 +63,4 @@ This repository is for educational purposes. Please refer to each file for speci
 ---
 
 ## Author
-
+https://drive.google.com/drive/folders/1N4_XcfJ1N_f0LL2QYKUjOAzs0WgCOhV4
